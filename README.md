@@ -1,3 +1,10 @@
+# Microsoft Learn - Create Machine Learning Models with R and Tidymodels tests files
+This repository contains the test files used to check user's answers for challenges units of the MS learn path "Create Machine Learning Models with R and Tidymodels".
+Use links below to access directly challenges units:
+1. Module 1 -  Explore and analyze data with R: https://docs.microsoft.com/en-us/learn/modules/explore-analyze-data-with-r/9-challenge-data-exploration
+2. Module 2 -  Introduction to regression models by using R and tidymodels: https://docs.microsoft.com/en-us/learn/modules/introduction-regression-models/9-challenge-regression
+3. Module 3 -  Introduction to training classification models by using R and tidymodels: https://docs.microsoft.com/en-us/learn/modules/introduction-classification-models/9-challenge-classification
+4. Module 4 - Introduction to clustering models by using R and tidymodels: https://docs.microsoft.com/en-us/learn/modules/introduction-clustering-models/7-challenge-clustering
 
 # Contributing
 
